@@ -43,11 +43,11 @@ PowerBI_DataWarehouse_Mini/
 ## Screenshots
 <!-- Add dashboard screenshots here! Example: -->
 
-![Dashboard KPI Example](https://bit.ly/PowerBI_KPI_Discount)
+![Dashboard KPI Example] (https://bit.ly/PowerBI_KPI_Discount)
 
-![Profit Line Chart](https://bit.ly/PowerBI_ProfitLineChart)
+![Profit Line Chart] (https://bit.ly/PowerBI_ProfitLineChart)
 
-![Dashboard Overview](https://bit.ly/PowerBI-Dashboard_Overview)
+![Dashboard Overview] (https://bit.ly/PowerBI-Dashboard_Overview)
 
 ## Learning Outcomes
 By completing this project, you will gain experience with:
